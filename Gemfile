@@ -31,6 +31,11 @@ gem 'jquery-rails'
 gem 'devise'
 
 gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'debugger'
+gem 'pry'
+gem 'pry-rails'
+gem 'pry-nav'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
